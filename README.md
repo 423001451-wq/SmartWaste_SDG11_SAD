@@ -52,26 +52,6 @@ The system follows a **3-Tier Architecture**:
 - **Logic Layer:** PHP (business logic and processing)  
 - **Data Layer:** MySQL database  
 
----
-
-## 🗂️ Repository Structure
-```
-
-SmartWaste_SDG11_SAD/
-│
-├── DOCUMENTATION/
-│   ├── 01_SRS_Final.pdf
-│   ├── 02_SDAD_Final.pdf
-│   └── INTERVIEWS/
-│
-├── MODELS/
-│   ├── DFD/
-│   ├── ERD/
-│   └── USE_CASES/
-│
-├── PROTOTYPE/
-│
-└── README.md
 
 ````
 
@@ -107,39 +87,6 @@ SmartWaste_SDG11_SAD/
 - Use Case Diagram
 - UI/UX Prototype
 
----
-
-## 👨‍💻 Contributors
-- Member 1 – Project Lead / Documentation  
-- Member 2 – System Design / Diagrams  
-- Member 3 – Frontend Development  
-- Member 4 – Backend Development  
-
----
-
-## 🔗 GitHub Setup Instructions
-1. Clone the repository:
-```bash
-git clone https://github.com/USERNAME/SmartWaste_SDG11_SAD.git
-````
-
-2. Add files:
-
-```bash
-git add .
-```
-
-3. Commit changes:
-
-```bash
-git commit -m "Initial commit"
-```
-
-4. Push to GitHub:
-
-```bash
-git push origin main
-```
 
 ---
 
